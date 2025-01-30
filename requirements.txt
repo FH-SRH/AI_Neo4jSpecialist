@@ -1,0 +1,8 @@
+neo4j
+openai
+openai-whisper @ git+https://github.com/openai/whisper.git@main
+tiktoken
+torch>=2.0.1  # Compatible version for macOS
+numpy
+requests
+tqdm
