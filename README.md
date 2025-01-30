@@ -1,10 +1,10 @@
 # AI_Neo4jSpecialist
 
-How to let LLM's do all the hard work with Neo4j?
+How to let LLMs do all the hard work with Neo4j?
 
-Here is the solution! Just write or say what you want to have in your Neo4j database.
+Here is the solution! Just write or say what you want to do in your Neo4j database.
 
-This is a very basic example. You can make a lot of advanced applications from this starting point.
+This is a very simple example. You can design a lot of advanced applications from this starting point.
 
 If you want to add more examples, feel free to create PR's.
 
